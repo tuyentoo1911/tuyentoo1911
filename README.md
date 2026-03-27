@@ -8,16 +8,5 @@
 
 ---
 
-## 🛠 Tech Stack
-
-### 🚀 Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,go,express)
-
-### 🗄 Database
-![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
-
-### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java)
-
-### ⚙️ Tools & DevOps
-![Tools](https://skillicons.dev/icons?i=git,docker,linux,postman)
+##  Tech Stack
+![My Skills](https://skillicons.dev/icons?i=express,js,ts,python,java,mysql,postgres,git,docker,postman)
