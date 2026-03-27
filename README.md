@@ -8,5 +8,3 @@
 
 ---
 
-##  Tech Stack
-![My Skills](https://skillicons.dev/icons?i=express,js,ts,python,java,mysql,postgres,git,docker,postman)
